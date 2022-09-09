@@ -1,0 +1,47 @@
+export const mockDrink= {
+    drinks: [
+        {
+            dateModified: "2017-02-20 15:14:40",
+            idDrink: "12704",
+            strAlcoholic: "Non alcoholic",
+            strCategory: "Other/Unknown",
+            strCreativeCommonsConfirmed: "No",
+            strDrink: "Limeade",
+            strDrinkAlternate: null,
+            strDrinkThumb: "https://www.thecocktaildb.com/images/media/drink/5jdp5r1487603680.jpg",
+            strGlass: "Highball glass",
+            strIBA: null,
+            strImageAttribution: null,
+            strImageSource: "https://giggledam.com/wp-content/uploads/2020/07/4909D8D9-F78E-4391-B7A2-B383CA57D69F.jpeg",
+            strIngredient1: "Lime",
+            strIngredient2: "Sugar",
+            strIngredient3: "Soda water",
+            strIngredient4: "Lime peel",
+            strInstructions: "In a large glass, put the lime juice and sugar, and stir well. Add cold seltzer water to fill. Put the lime peels in the glass. Drink. Repeat until limes or soda run out."
+            , strMeasure1: "Juice of 1 ",
+            strMeasure2: "1 tblsp ",
+            strMeasure3: " (seltzer water)\n",
+
+        },
+        {
+            dateModified: null,
+            idDrink: "178362",
+            strAlcoholic: "Alcoholic",
+            strCategory: "Cocktail",
+            strCreativeCommonsConfirmed: "No",
+            strDrink: "Vodka Slime",
+            strDrinkAlternate: null,
+            strDrinkThumb: "https://www.thecocktaildb.com/images/media/drink/apex461643588115.jpg",
+            strGlass: "Highball glass",
+            strIBA: null,
+            strImageAttribution: null,
+            strImageSource: "https://giggledam.com/wp-content/uploads/2020/07/4909D8D9-F78E-4391-B7A2-B383CA57D69F.jpeg",
+            strIngredient1: "Sprite",
+            strIngredient2: "Lime Juice",
+            strIngredient3: "Vodka",
+            strInstructions: "Fill glass with ice. Add vodka, 7-up then finish with the lime juice.",
+        strMeasure1:"1 cup",
+        strMeasure2:"1/2 shot",
+        strMeasure3:"1 1/2 shot",
+    }]
+}
